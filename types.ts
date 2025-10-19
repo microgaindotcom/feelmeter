@@ -1,4 +1,3 @@
-
 export interface PollOption {
   text: string;
   votes: number;
@@ -27,5 +26,7 @@ export enum MeterCategory {
   Mood = "মুড",
   Maturity = "ম্যাচিউরিটি",
   Frustration = "হতাশার লেবেল",
-  Foodie = "খাদ্য প্রেমিক"
+  Foodie = "খাদ্য প্রেমিক",
+  Intelligence = "বুদ্ধিমত্তা মিটার",
+  Creativity = "সৃজনশীলতা স্কোর"
 }
