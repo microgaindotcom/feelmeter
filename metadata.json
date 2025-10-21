@@ -1,0 +1,5 @@
+{
+  "name": "FeelMeter (ফিলমিটার)",
+  "description": "A playful Bengali website to 'measure' unmeasurable emotions, vote on fun polls, and enjoy a modern, animated UI. It includes a home page, an emotion calculator, a polling system, and an admin dashboard for managing polls, all using local storage for data persistence.",
+  "requestFramePermissions": []
+}
